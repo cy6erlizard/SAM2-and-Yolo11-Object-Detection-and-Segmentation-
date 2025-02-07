@@ -1,6 +1,6 @@
-# Auto Object Detection and Segmentation in Google Colab
+# Auto Object Detection and Segmentation
 
-This project demonstrates a complete pipeline for object detection and segmentation using Ultralytics YOLO and the Segment Anything Model (SAM) in Google Colab. It is designed to work with any Roboflow dataset.
+This project demonstrates a complete pipeline for object detection and segmentation using Ultralytics YOLO and the Segment Anything Model (SAM). It is designed to work with any Roboflow dataset.
 
 ## Overview
 
